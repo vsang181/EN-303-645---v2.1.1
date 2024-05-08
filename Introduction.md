@@ -33,3 +33,11 @@ The standard also sets its limits to security considerations to constrained devi
 This standard is a basic guidance for organizations involved in the development and manufacture of consumer IoT on how to implement security features and requirements. 
 
 Devices that are not consumer IoT devices, for example those that are primarily intended to be used in manufacturing, healthcare or other industrial applications, are not in scope of the present document. 
+
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
