@@ -23,3 +23,11 @@ Cases where a provision is not applicable or not fulfilled by the consumer IoT d
 - Where the functionality described in the provision is not included (e.g. a device that only presents data without requiring authentication).
 
 > Example: A window sensor with a limited battery life sends alerts via a remote associated service when triggered and is controlled via a hub. Due to its limited battery life and processing power compared to other consumer IoT devices, it is a constrained device. In addition, because the user controls the device via a hub, the user does not need to use passwords, or other authentication mechanisms, to directly authenticate to the device.
+
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
