@@ -3,8 +3,7 @@
 ## Index
 
 1. [Introduction](Introduction.md)
-2. [Indentity & Access Management](Indentity-&-Access-Management.md)
-3. [Virtual Private Cloud](Virtual-Private-Cloud.md)
+2. [Definition of terms and Abbreviations](Definition_of_terms_and_Abbreviations.md)
 
 .
 .
