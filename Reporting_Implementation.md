@@ -1,6 +1,6 @@
 # Reporting Implementation
 
-The implementation of provisions in the standard is informed by risk assessment and threat modeling (such as [ISO/IEC 27005:2018](ISO IEC 27005-2018.pdf) ) and [STRIDE Threat Model](STRIDE_model.md).
+The implementation of provisions in the standard is informed by risk assessment and threat modeling (such as [ISO/IEC 27005:2018](https://drive.google.com/file/d/1jNUFU_Ucu4BuxCttP5N6PQoIGjYJj9Tp/view?usp=sharing) ) and [STRIDE Threat Model](STRIDE_model.md).
 
 It is performed by the device manufacturer and/or other relevant entities and is out of scope for the standard. But for certain cases it can be beneficial to apply additional provisions.
 
