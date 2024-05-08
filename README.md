@@ -4,6 +4,7 @@
 
 1. [Introduction](Introduction.md)
 2. [Definition of terms and Abbreviations](Definition_of_terms_and_Abbreviations.md)
+3. [Reporting Implementation](Reporting_Implementation.md)
 
 .
 .
