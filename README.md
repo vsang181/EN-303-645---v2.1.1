@@ -7,6 +7,7 @@
 3. [Reporting Implementation](Reporting_Implementation.md)
 4. Cybersecurity Provisions for consumer IoT
 > For simplifying our understanding, we will not use the provision’s numbering from the official documentation but use the term “Provision 1”, “Provision 2”, “Provision 3” and so on instead of something like “Provision 5.1.1”.
+
    a. [Provision 1](Provision_1.md)
 
 .
