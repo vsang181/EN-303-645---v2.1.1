@@ -10,6 +10,7 @@
    2. [Provision 2](Provision_2.md)
 
 > For simplifying our understanding, we will not use the provision’s numbering from the official documentation but use the term “Provision 1”, “Provision 2”, “Provision 3” and so on instead of something like “Provision 5.1.1”.
+
 .
 .
 .
