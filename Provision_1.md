@@ -2,7 +2,7 @@
 
 ### Provision 1.1  
 
-Where passwords are used and, in any state, other than the factory default, all consumer IoT device passwords shall be unique per device or defined by the user. 
+**Where passwords are used and, in any state, other than the factory default, all consumer IoT device passwords shall be unique per device or defined by the user.**
 
 > Multiple ways can be used to perform authentication and authentication is not limited to passwords. But when the passwords are used [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 
 
@@ -14,7 +14,7 @@ A multi factor authentication method could be used for better security implement
 
 ### Provision 1.2 
 
-This is a provision where pre-initialized credentials are used and these should be generated with a mechanism that reduces the risk of automated attacks against a class or type of device. 
+**This is a provision where pre-initialized credentials are used and these should be generated with a mechanism that reduces the risk of automated attacks against a class or type of device.** 
 
 > Example: Pre-installed credentials are sufficiently randomized. 
 
@@ -22,11 +22,11 @@ A pattern of passwords like “Password1”, “Password2”, “Password3” ar
 
 ### Provision 1.3 
 
-Cryptography used for the authentication process should be from the best at the time market practice standards and appropriate to the properties of the technology, risk and usage. 
+**Cryptography used for the authentication process should be from the best at the time market practice standards and appropriate to the properties of the technology, risk and usage.** 
 
 ### Provision 1.4 
 
-The change of authentication parameter should be able to be changed after setting up with an easy and simple process for the user and the administrator. 
+**The change of authentication parameter should be able to be changed after setting up with an easy and simple process for the user and the administrator.** 
 
 > Example 1:  For bio metric authentication values the device manufacturer allows this change in authentication value through retraining against a new bio metric. 
 
@@ -38,7 +38,7 @@ An authentication mechanism used for authenticating users, whether it be a finge
 
 ### Provision 1.5 
 
-A security implementation and basic mechanism of the device should be in such a way that brute force attacks become impractical if the device is not a constrained device. 
+**A security implementation and basic mechanism of the device should be in such a way that brute force attacks become impractical if the device is not a constrained device.**
 
 > Example 1: A device has a limitation on the number of authentication attempts within a certain time interval. It also uses increasing time intervals between attempts. 
 
