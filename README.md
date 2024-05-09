@@ -8,6 +8,7 @@
 4. Cybersecurity Provisions for consumer IoT
    1. [Provision 1](Provision_1.md)
    2. [Provision 2](Provision_2.md)
+   3. [Provision 3](Provision_3.md)
 
 > For simplifying our understanding, we will not use the provision’s numbering from the official documentation but use the term “Provision 1”, “Provision 2”, “Provision 3” and so on instead of something like “Provision 5.1.1”.
 
