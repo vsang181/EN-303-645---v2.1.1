@@ -19,6 +19,7 @@
    11. [Provision 11](Provision_11.md)
    12. [Provision 12](Provision_12.md)
    13. [Provision 13](Provision_13.md)
+5. [Data Protection Provisions](Data_Protection_Provisions.md)
 
 > For simplifying our understanding, we will not use the provision’s numbering from the official documentation but use the term “Provision 1”, “Provision 2”, “Provision 3” and so on instead of something like “Provision 5.1.1”.
 
