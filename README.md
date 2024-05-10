@@ -21,17 +21,9 @@
    13. [Provision 13](Provision_13.md)
 5. [Data Protection Provisions](Data_Protection_Provisions.md)
 6. [Basic concepts and models](Basic_concepts_and_models.md)
-7. 
+7. [Implementation Conformance Statement Pro Forma](Implementation_Conformance_Statement_Pro_Forma.md)
 
 > For simplifying our understanding, we will not use the provision’s numbering from the official documentation but use the term “Provision 1”, “Provision 2”, “Provision 3” and so on instead of something like “Provision 5.1.1”.
-
-.
-.
-.
-.
-.
-.
-_In progress..._
 
 ## Let's Connect
 
