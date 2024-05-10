@@ -9,6 +9,16 @@
    1. [Provision 1](Provision_1.md)
    2. [Provision 2](Provision_2.md)
    3. [Provision 3](Provision_3.md)
+   4. [Provision 4](Provision_4.md)
+   5. [Provision 5](Provision_5.md)
+   6. [Provision 6](Provision_6.md)
+   7. [Provision 7](Provision_7.md)
+   8. [Provision 8](Provision_8.md)
+   9. [Provision 9](Provision_9.md)
+   10. [Provision 10](Provision_10.md)
+   11. [Provision 11](Provision_11.md)
+   12. [Provision 12](Provision_12.md)
+   13. [Provision 13](Provision_13.md)
 
 > For simplifying our understanding, we will not use the provision’s numbering from the official documentation but use the term “Provision 1”, “Provision 2”, “Provision 3” and so on instead of something like “Provision 5.1.1”.
 
