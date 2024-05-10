@@ -19,3 +19,11 @@
 **All external sensing capabilities of the device shall be documented in an accessible way that is clear and transparent for the user.** 
 
 > Example: An external sensing capability can be an optic or acoustic sensor.
+
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
